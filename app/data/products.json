@@ -1,0 +1,10 @@
+[
+  {
+    "id": "st-001",
+    "name": "AeroFlex Runner Black",
+    "priceRON": 349,
+    "image": "/images/aeroflex-black.jpg",
+    "description": "Lightweight daily runner with breathable mesh and responsive midsole.",
+    "visible": true
+  }
+]
