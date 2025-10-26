@@ -1,1 +1,1 @@
-# Sole---Theory---Store-
+# SoleTheory
